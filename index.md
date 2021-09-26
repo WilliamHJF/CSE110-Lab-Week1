@@ -12,7 +12,7 @@ My academic experience:<br/>
 2. CSE 101 Design & Analysis of Algorithm <br/>
 3. CSE 105 Theory of Computation <br/>
 4. CSE 140 Component&Design Tech/Digital Sys <br/>
-5. CSE 140L Digital Systems Laboratory <br/>
+5. CSE 140L Digital Systems Laboratory <br/><br/>
 My acdemic plan: <br/>
 - [x] #Univcetsity <br/>
 - [ ] Master <br/>
