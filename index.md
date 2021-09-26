@@ -5,7 +5,8 @@ My name is **Jianfan Huo**, and you can also call me **William**. I am a Compute
 > University of California, San Diego in 2022.
 <br/>
 I see myself as a relentless `problem-solver`, and I’m always looking for a new challenge.In the previous team project, my teammates thought that I was a serious, careful and patient person, so I was mainly responsible for debugging and writing the main contents of the program, like main function determining the framework of the whole project.<br\> And you can find more info about me at my 
- [website](https://william417267903.wixsite.com/my-site/resume)
+ [ website ](https://william417267903.wixsite.com/my-site/resume)
+ <br/>
  [More picture](1301632634218_.pic.jpg) 
 <br/>
  TOP(#TOP)
