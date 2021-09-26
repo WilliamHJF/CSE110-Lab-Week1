@@ -15,8 +15,8 @@ My academic experience:<br/>
 3. CSE 105 Theory of Computation
 4. CSE 140 Component&Design Tech/Digital Sys
 5. CSE 140L Digital Systems Laboratory <br/>
-My acdemic plan:
-- [x] #Univcetsity
-- [ ] Master
-- [ ] Phd
+My acdemic plan: <br/>
+- [x] #Univcetsity <br/>
+- [ ] Master <br/>
+- [ ] Phd <br/>
 I'm glad to meet you guys and hope we all have a good time. 
